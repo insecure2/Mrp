@@ -1,0 +1,7 @@
+"1990"
+{
+	"base"		"nutscript"
+	"title"		"1950s Mafia RP"
+	"author"	"Mafioso Networks"
+	"menusystem" "1"
+}
